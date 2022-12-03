@@ -40,7 +40,7 @@ JWT_SECRET = \"super-secret-token\"
 SMTP_HOST = \"mail.smtp2go.com\"
 SMTP_PORT = \"2525\"
 SMTP_USER = \"higueros\"
-SMTP_PASS = \"higueros25\"
+SMTP_PASS = \"Higueros25\"
 SMTP_SENDER_EMAIL = \"201901049@ujmd.edu.sv\"
 
 # aws
