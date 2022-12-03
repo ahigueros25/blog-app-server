@@ -13,7 +13,7 @@ yum install -y nodejs git
 
 # 4. Obtenemos nuestro codigo fuente del repositorio de github
 cd /home/ec2-user/
-git clone https://github.com/rvigil24/blog-app-server
+git clone https://github.com/ahigueros25/blog-app-server
 
 # 5. Nos movemos al directorio del proyecto
 cd blog-app-server
